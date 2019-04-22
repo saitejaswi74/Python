@@ -1,0 +1,30 @@
+TWTR:Twitter, Inc.
+CMG:Chipotle Mexican Grill, Inc.
+MGNX:MacroGenics, Inc.
+GPRO:GoPro, Inc.
+CGC:Canopy Growth Corporation
+NXPI:NXP Semiconductors N.V.
+NIO:NIO Inc.
+DNKN:Dunkin' Brands Group, Inc.
+ATVI:Activision Blizzard, Inc.
+IRBT:iRobot Corporation
+GRUB:GrubHub Inc.
+FEYE:FireEye, Inc.
+TTWO:Take-Two Interactive Software, Inc.
+NOK:Nokia Corporation
+DGAZ:VelocityShares 3x Inv Natural Gas ETN
+LCI:Lannett Company, Inc.
+MU:Micron Technology, Inc.
+MTCH:Match Group, Inc.
+VALE:Vale S.A.
+PM:Philip Morris International Inc.
+UCG.MI:UniCredit S.p.A.
+ARWR:Arrowhead Pharmaceuticals, Inc.
+TLRY:Tilray, Inc.
+EURUSD=X:EUR/USD
+FTNT:Fortinet, Inc.
+ZNGA:Zynga Inc.
+UGAZ:VelocityShares 3x Long Natural Gas ETN
+AVGO:Broadcom Inc.
+TEVA:Teva Pharmaceutical Industries Limited
+SONO:Sonos, Inc.
